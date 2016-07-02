@@ -1,0 +1,14 @@
+layout_spectrum: 0.5650673769414425
+typography_spectrum: 0.29251046222634614
+color:
+  brandStrength: 0.8534294157288969
+  lightness: 0.31649306626059115
+  saturation: 0.41506449948064983
+  rhythmicContrast: 0.5164812542498112
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: 'Game Is On '
